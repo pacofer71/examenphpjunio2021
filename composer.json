@@ -1,0 +1,20 @@
+{
+    "name": "pacofer/crudrepaso",
+    "description": "Recuperación",
+    "type": "project",
+    "license": "Free",
+    "authors": [
+        {
+            "name": "pacofer71",
+            "email": "pacofer71@gmail.com"
+        }
+    ],
+    "config" :{
+        "optimize-autoloader": true
+    },
+    "autoload": {
+        "psr-4": {
+            "Clases\\": "src"
+        }
+    }
+}
